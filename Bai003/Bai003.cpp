@@ -7,7 +7,6 @@ float chuvi(float);
 
 int main()
 {
-	cout << " hello ";
 	float r;
 	cout << "Nhap r";
 	cin >> r;
